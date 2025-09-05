@@ -77,13 +77,8 @@ Bank-Loan-Analysis/
 │   ├── home_ownership.png
 │   └── ...
 │
-│── src/
-│   ├── analysis.py                 # script version of notebook
-│
 │── BankLoanAnalysis.ipynb          # main Jupyter Notebook
-│── requirements.txt
 │── README.md                       # this file
-│── LICENSE (optional)
 ```
 
 ---
